@@ -3,6 +3,7 @@
   "description": "reflect url params to function params",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "coooold",
