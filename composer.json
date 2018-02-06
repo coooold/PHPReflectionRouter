@@ -1,5 +1,5 @@
 {
-  "name": "fang/php-reflection-router",
+  "name": "coooold/php-reflection-router",
   "description": "reflect url params to function params",
   "type": "library",
   "license": "MIT",
